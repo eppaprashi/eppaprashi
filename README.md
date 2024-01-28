@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eppaprashi
+- 👋 Hi, I’m @eppaprashanth
 - 👀 I’m interested in learning new technologys 
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate as a Linux sys admin
